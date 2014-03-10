@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>99E7FA3F-08BE-4E45-A5FE-293E0FB6128A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EngineTester</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B8DB60A9-3522-4BF1-A6AD-2CE9C88A6CAE</key>
+		<string>https://super-nb-project.googlecode.com/svn/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>xcode_src/EngineTester/EngineTester.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B8DB60A9-3522-4BF1-A6AD-2CE9C88A6CAE</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>B8DB60A9-3522-4BF1-A6AD-2CE9C88A6CAE</key>
+		<string>https://super-nb-project.googlecode.com/svn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://super-nb-project.googlecode.com/svn/trunk/xcode_src/EngineTester/EngineTester.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B8DB60A9-3522-4BF1-A6AD-2CE9C88A6CAE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B8DB60A9-3522-4BF1-A6AD-2CE9C88A6CAE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>super-nb-project</string>
+		</dict>
+	</array>
+</dict>
+</plist>
