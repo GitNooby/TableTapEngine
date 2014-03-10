@@ -8,7 +8,8 @@ https://www.youtube.com/watch?v=P9VFogw5XrA
 
 Google Code repository (this has even more stuff like the prototypes, documentation, and data collected and analysized with Matlab!): https://code.google.com/p/super-nb-project/source/checkout
 
-Yes, the UI looks bad, but it works :)
+Yes, the UI looks bad, but it works :).
+It mostly looks bad because it was built with old XCode IB layout, now the storyboard stuff screwed up everything :(.
 Yes, the code might look messy, but we did use a design pattern, you just don't see it ;)
 
 Information:
